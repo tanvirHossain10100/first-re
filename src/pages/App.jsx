@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <div className="countries">
-        <h1>The details and lis of the all country yp</h1>
+        <h1g>The details and lis of the all country yp</h1g>
         {}
       </div>
     </>
